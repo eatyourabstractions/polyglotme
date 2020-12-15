@@ -6,12 +6,7 @@ import "firebase/firestore";
 
   // Your web app's Firebase configuration
   const  firebaseConfig = {
-    apiKey: "AIzaSyAlFBJ-LDO4ASXX3JKyg_sOxttmNnvqzFs",
-    authDomain: "lateral-journey-261421.firebaseapp.com",
-    projectId: "lateral-journey-261421",
-    storageBucket: "lateral-journey-261421.appspot.com",
-    messagingSenderId: "341962647722",
-    appId: "1:341962647722:web:7669f2aecb06f8452fc8d3"
+   
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
